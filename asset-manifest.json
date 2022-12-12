@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shedou85/React_Post_forms/static/css/main.73883b49.css",
+    "main.js": "/Shedou85/React_Post_forms/static/js/main.562b5123.js",
+    "index.html": "/Shedou85/React_Post_forms/index.html",
+    "main.73883b49.css.map": "/Shedou85/React_Post_forms/static/css/main.73883b49.css.map",
+    "main.562b5123.js.map": "/Shedou85/React_Post_forms/static/js/main.562b5123.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73883b49.css",
+    "static/js/main.562b5123.js"
+  ]
+}
